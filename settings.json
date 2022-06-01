@@ -1,14 +1,14 @@
 {
-"autoread": false,
+"autoread": true,
 "autoplaymusic": true,
 "autocomposing": false,
-"autorecording": true,
-"NamaBot":"Senpai Bot Assistan", 
-"NomorOwner":"6282287219167", 
-"NomorOwner2":"+62 812-2067-0449", 
-"NamaOwner":"Senpai-Chan", 
-"Dana":"081220670449", 
-"Pulsa":"081220670449", 
-"Gopay":"082298891772", 
+"autorecording": false,
+"NamaBot":"ArullBotz", 
+"NomorOwner":"6285822347348", 
+"NomorOwner2":"6285822347348", 
+"NamaOwner":"ArullWara", 
+"Dana":"", 
+"Pulsa":"085822347348", 
+"Gopay":"", 
 "HunterApi":"Ikyy69"
 }
